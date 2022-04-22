@@ -1,7 +1,0 @@
-apiServerCA: "" 
-apiServerURL: ""
-clusterNamespace: clusters
-internal:
-  systemNamespace: cattle-fleet-system
-systemRegistrationNamespace: cattle-fleet-clusters-system
-token:  

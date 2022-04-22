@@ -1,1 +1,14 @@
+fleet:
+  image:
+    repository: rancher/fleet
+    tag: "v0.3.9"
 
+  agentImage:
+    repository: rancher/fleet-agent
+    tag: "v0.3.9"
+
+  bootstrap:
+    repo: "https://github.com/encodeflush/fleet-apps.git"
+    secret: ""
+    branch: main
+    paths: "crossplane/helm"

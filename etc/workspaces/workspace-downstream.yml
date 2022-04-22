@@ -1,5 +1,0 @@
-apiVersion: management.cattle.io/v3
-kind: FleetWorkspace
-metadata:
-  name: fleet-downstream-clusters
-status: {}
