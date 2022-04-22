@@ -1,0 +1,5 @@
+defaultNamespace: cattle-gatekeeper
+helm:
+  releaseName: rancher-gatekeeper
+  repo: https://charts.rancher.io
+  chart: rancher-gatekeeper
