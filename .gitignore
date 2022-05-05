@@ -1,1 +1,4 @@
 configs/*
+!configs/cluster-registration-token.yaml
+!configs/fleet-ns.yaml
+!configs/gcp-clusters-ns.yaml
